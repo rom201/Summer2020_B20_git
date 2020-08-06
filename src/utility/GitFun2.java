@@ -5,6 +5,7 @@ public class GitFun2 {
 
         System.out.println("This is secong GitFun");
         // this line from GitHub
+        System.out.println("Added");
 
     }
 }
